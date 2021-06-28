@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on creating a lit :fire: intro for my Github profile. Be on the lookout! :eyes:
+
+Meanwhile checkout my repositories below 👇
