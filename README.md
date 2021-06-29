@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on creating a lit :fire: intro for my Github profile. Be on the lookout! :eyes:
-- ✔️ I have just finished the awesome 🔥 tensorflow deep learning course by mrdbourke. Check my repo [here](https://github.com/abhi8893/tensorflow-deep-learning-mrdbourke).
+- ✔️ I have just finished the awesome 🔥 tensorflow deep learning course by mrdbourke. Check out my repo [here](https://github.com/abhi8893/tensorflow-deep-learning-mrdbourke).
 
 Meanwhile checkout my repositories below 👇
