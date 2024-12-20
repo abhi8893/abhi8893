@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on creating a lit :fire: Github profile. Be on the lookout! :eyes:
-- 🎓 I studied Applied Statistics at Indian Statistical Institute, where my Research Project was on the Application of Deep Learning in Natural Language Processing.
-- ✔️ I am a Tensorflow Certified Developer
-
-Meanwhile checkout my repositories below 👇
+Checkout my repositories below 👇
